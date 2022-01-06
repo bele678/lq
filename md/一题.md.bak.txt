@@ -1,0 +1,13 @@
+## ** 21.12.1.8 **
+
+D:\其他文件\机械硬盘\sync\同步文件夹\时间线\2021\12\蓝桥\docs\res\res_蓝桥\一题\一月份\8.1月8日-知识产权\课中讲解
+
+<object data="../../../res/res_蓝桥/一题/一月份/8.1月8日-知识产权/课中讲解/808___知识产权.pdf" type="application/pdf"  width="135%" height="700px">
+    <embed src="../../res/res_蓝桥/test.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+<video id="video" controls="" preload="none"  width ="735" height="410">
+<source id="mp4" src="../../../res/res_蓝桥/一题/一月份/8.1月8日-知识产权/课中讲解/869___知识产权.mp4" type="video/mp4" width ="735" height="410">
+</video>
